@@ -17,7 +17,7 @@ O CLEBER TRACKER é um projeto desenvolvido com Vue 3, TypeScript e TailwindCSS,
 ### 1. CLONE O REPOSITÓRIO
 
 ```sh
-git clone https://github.com/seu-usuario/cleber-tracker.git
+git clone https://github.com/cleber/cleber-tracker.git
 cd cleber-tracker
 ```
 
